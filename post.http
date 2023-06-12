@@ -1,0 +1,4 @@
+POST http://drachehavoc-psychic-adventure-4qwwjvrx6p3j77g-3000.preview.app.github.dev/arquivo HTTP/1.1
+content-type: text/plain
+
+"oieee eu sou um texto plano"
